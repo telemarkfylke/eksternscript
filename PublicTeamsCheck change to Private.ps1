@@ -1,5 +1,7 @@
 ﻿Connect-MicrosoftTeams
-
+# Lister ut alle public teams i tenant
+# Genererer to filer. En med oversikt over alle team, og en med eiere.
+# Laget av John Riis 2024
 
 #Hent alle public Team
 Write-Host "Getting public teams - It will take a while 30-60 minutes" -ForegroundColor Cyan
